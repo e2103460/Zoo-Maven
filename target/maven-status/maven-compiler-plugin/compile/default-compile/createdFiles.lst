@@ -1,1 +1,9 @@
+com\ensim\info\TP1\zoo\Chat.class
+com\ensim\info\TP1\zoo\Animal.class
+com\ensim\info\TP1\utils\TypeAnimal.class
+com\ensim\info\TP1\zoo\Secteur.class
+com\ensim\info\TP1\exception\AnimalDansMauvaisSecteurException.class
+com\ensim\info\TP1\zoo\Zoo.class
+com\ensim\info\TP1\exception\LimiteVisiteurException.class
 com\ensim\info\TP1\Tp1Application.class
+com\ensim\info\TP1\zoo\Chien.class

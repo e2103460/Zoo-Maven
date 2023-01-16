@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.ensim.info.TP1.zoo.ZooTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in com.ensim.info.TP1.zoo.ZooTest
+nouveauVisiteur  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Message d'erreur OK ==> expected: <Trop de visiteurs dans ce secteur> but was: <null>
+	at com.ensim.info.TP1.zoo.ZooTest.nouveauVisiteur(ZooTest.java:30)
+

@@ -1,8 +1,6 @@
 package com.ensim.info.TP1.zoo;
 
-import com.ensim.info.TP1.exception.AnimalDansMauvaisSecteurException;
 import com.ensim.info.TP1.exception.LimiteVisiteurException;
-import com.ensim.info.TP1.utils.TypeAnimal;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
@@ -10,13 +8,13 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class ZooTest {
 
-    static Zoo zoo;
+    static ZooDao zoo;
     static Chien michel;
     static Chat henri;
 
     @BeforeAll
     public static void initTest(){
-        zoo = new Zoo();
+        zoo = new ZooDao();
     }
 
     @Test
